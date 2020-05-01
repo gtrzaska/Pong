@@ -1,0 +1,16 @@
+Uruchomienie w programie Dosbox:
+
+mount C C:\folder_z_plikiem
+C:
+tasm pong
+tlink pong
+pong
+
+
+Sterowanie:
+	Dolna paletka:
+		ruch w lewo -> strza³ka w lewo
+		ruch w prawo -> strza³ka w prawo
+	Górna paletka:
+		ruch w lewo -> 1
+		ruch w prawo -> 2

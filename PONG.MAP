@@ -1,0 +1,9 @@
+
+ Start  Stop   Length Name               Class
+
+ 00000H 007FFH 00800H STOSIK             
+ 00800H 00882H 00083H DANE               
+ 00890H 00B86H 002F7H CODE_SEG           
+
+Program entry point at 0089:0000
+
